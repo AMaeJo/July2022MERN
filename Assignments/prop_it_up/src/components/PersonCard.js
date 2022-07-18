@@ -11,7 +11,6 @@ const PersonCard = (props) => {
             </h2>
             <p/>Age: {stateAge}
             <p/>Zodiac Sign: {zodiacsign}
-            <p/>
         </div>
     );
 };
